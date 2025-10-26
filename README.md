@@ -12,8 +12,7 @@ If you use this dataset, please cite our paper:
 @inproceedings{xie2025Learning,
 author = {Xie, Dirui and Hu, Xiaofang and Wei, Zihan and Yang, Zhengqiqi and Jiang, Yanlian and Zhou, Yue},
 title = {Learning Structural Priors via Laplacian RWKV Diffusion with Light-Effect Dataset for Nighttime Visibility Enhancement},
-year = {2025},
-isbn = {9798400720352},
+year = {2025}
 booktitle = {Proceedings of the 33rd ACM International Conference on Multimedia},
 pages = {4590–4599}
 }
